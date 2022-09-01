@@ -1,0 +1,28 @@
+body {
+  height: auto;
+  width: fit-content;
+	font-family: Comic Sans MS;
+}
+
+input {
+	font-family: Comic Sans MS;
+}
+
+h1, h3 {
+	padding: 0%;
+	margin: 0%;
+}
+
+h2 {
+	text-decoration: underline;
+}
+
+section {
+	background-color: #ffe6ff;
+	overflow: hidden;
+	border: solid;
+}
+
+#ph {
+	padding: 25px;
+}
